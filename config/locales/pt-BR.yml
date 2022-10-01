@@ -1,0 +1,33 @@
+pt-BR:
+  app_name: Racha da Galera
+  date:
+    day_names:
+      - Domingo
+      - Segunda
+      - Terça
+      - Quarta
+      - Quinta
+      - Sexta
+      - Sábado
+    formats:
+      default: ! '%d/%m/%Y h:m h'
+      long: ! '%d de %B de %Y'
+      long_week: ! '%A, %d de %B de %Y'
+      month_name: ! '%B'
+      short: ! '%d de %B'
+  boolean:
+    "yes": Sim
+    "no": Não
+  messages:
+    create: Criado com sucesso!
+    update: Atualizado com sucesso!
+    destroy: Deletado com sucesso!
+  buttons:
+    new: Novo
+    save: Salvar
+    edit: Editar
+    show: Visualizar
+    destroy: Deletar
+    return: Voltar
+    search: Pesquisar
+    clear: Limpar
